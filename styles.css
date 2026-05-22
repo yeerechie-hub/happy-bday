@@ -197,6 +197,30 @@ body {
     font-style: italic;
 }
 
+#partner {
+    background-image: url("images/vea.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    position: relative;
+    border-radius: 15px;
+    overflow: hidden;
+    padding: 20px;
+}
+
+#you {
+    background-image: url("images/yee.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    position: relative;
+    border-radius: 15px;
+    overflow: hidden;
+    padding: 20px;
+}
+
 .love-heart {
     display: flex;
     align-items: center;
